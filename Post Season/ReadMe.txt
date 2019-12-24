@@ -1,1 +1,0 @@
-This is where all files go in an organized fashion after competitions
