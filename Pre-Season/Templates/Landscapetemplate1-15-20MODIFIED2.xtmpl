@@ -1134,7 +1134,7 @@
         <group name="Postion Control">
             <question multiple="true" question="Question018" rejectMultiple="false" type="QUESTIONS_BY_COLS">
                 <values>
-				<value response="0">
+				    <value response="0">
                         <point x="1716.0" y="1080.0"/>
                     </value>
                     <value response="1">
