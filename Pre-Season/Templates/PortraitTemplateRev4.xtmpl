@@ -752,64 +752,64 @@
         <group name="THG">
             <question multiple="true" question="Question017" rejectMultiple="false" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="B">
+                    <value response="11">
                         <point x="2645.0" y="2167.0"/>
                     </value>
-                    <value response="C">
+                    <value response="12">
                         <point x="2734.0" y="2167.0"/>
                     </value>
-                    <value response="D">
+                    <value response="13">
                         <point x="2822.0" y="2167.0"/>
                     </value>
-                    <value response="E">
+                    <value response="14">
                         <point x="2911.0" y="2167.0"/>
                     </value>
-                    <value response="F">
+                    <value response="15">
                         <point x="3000.0" y="2167.0"/>
                     </value>
-                    <value response="G">
+                    <value response="16">
                         <point x="3089.0" y="2167.0"/>
                     </value>
-                    <value response="H">
+                    <value response="17">
                         <point x="3177.0" y="2167.0"/>
                     </value>
-                    <value response="I">
+                    <value response="18">
                         <point x="3266.0" y="2167.0"/>
                     </value>
-                    <value response="J">
+                    <value response="19">
                         <point x="3355.0" y="2167.0"/>
                     </value>
-                    <value response="1">
+                    <value response="01">
                         <point x="1757.0" y="2166.0"/>
                     </value>
-                    <value response="2">
+                    <value response="02">
                         <point x="1846.0" y="2166.0"/>
                     </value>
-                    <value response="3">
+                    <value response="03">
                         <point x="1935.0" y="2166.0"/>
                     </value>
-                    <value response="4">
+                    <value response="04">
                         <point x="2024.0" y="2166.0"/>
                     </value>
-                    <value response="5">
+                    <value response="05">
                         <point x="2112.0" y="2166.0"/>
                     </value>
-                    <value response="6">
+                    <value response="06">
                         <point x="2201.0" y="2166.0"/>
                     </value>
-                    <value response="7">
+                    <value response="07">
                         <point x="2290.0" y="2167.0"/>
                     </value>
-                    <value response="8">
+                    <value response="08">
                         <point x="2379.0" y="2167.0"/>
                     </value>
-                    <value response="9">
+                    <value response="09">
                         <point x="2467.0" y="2167.0"/>
                     </value>
-                    <value response="K">
+                    <value response="20">
                         <point x="3444.0" y="2167.0"/>
                     </value>
-                    <value response="A">
+                    <value response="10">
                         <point x="2556.0" y="2167.0"/>
                     </value>
                 </values>
@@ -843,31 +843,31 @@
                     <value response="19">
                         <point x="3355.0" y="2253.0"/>
                     </value>
-                    <value response="1">
+                    <value response="01">
                         <point x="1757.0" y="2252.0"/>
                     </value>
-                    <value response="2">
+                    <value response="02">
                         <point x="1846.0" y="2253.0"/>
                     </value>
-                    <value response="3">
+                    <value response="03">
                         <point x="1935.0" y="2253.0"/>
                     </value>
-                    <value response="4">
+                    <value response="04">
                         <point x="2024.0" y="2253.0"/>
                     </value>
-                    <value response="5">
+                    <value response="05">
                         <point x="2112.0" y="2253.0"/>
                     </value>
-                    <value response="6">
+                    <value response="06">
                         <point x="2201.0" y="2253.0"/>
                     </value>
-                    <value response="7">
+                    <value response="07">
                         <point x="2290.0" y="2253.0"/>
                     </value>
-                    <value response="8">
+                    <value response="08">
                         <point x="2379.0" y="2253.0"/>
                     </value>
-                    <value response="9">
+                    <value response="09">
                         <point x="2467.0" y="2253.0"/>
                     </value>
                     <value response="20">
@@ -907,31 +907,31 @@
                     <value response="19">
                         <point x="3355.0" y="1995.0"/>
                     </value>
-                    <value response="1">
+                    <value response="01">
                         <point x="1757.0" y="1994.0"/>
                     </value>
-                    <value response="2">
+                    <value response="02">
                         <point x="1846.0" y="1994.0"/>
                     </value>
-                    <value response="3">
+                    <value response="03">
                         <point x="1935.0" y="1994.0"/>
                     </value>
-                    <value response="4">
+                    <value response="04">
                         <point x="2024.0" y="1994.0"/>
                     </value>
-                    <value response="5">
+                    <value response="05">
                         <point x="2112.0" y="1994.0"/>
                     </value>
-                    <value response="6">
+                    <value response="06">
                         <point x="2201.0" y="1994.0"/>
                     </value>
-                    <value response="7">
+                    <value response="07">
                         <point x="2290.0" y="1994.0"/>
                     </value>
-                    <value response="8">
+                    <value response="08">
                         <point x="2379.0" y="1994.0"/>
                     </value>
-                    <value response="9">
+                    <value response="09">
                         <point x="2467.0" y="1994.0"/>
                     </value>
                     <value response="20">
@@ -971,31 +971,31 @@
                     <value response="19">
                         <point x="3355.0" y="2081.0"/>
                     </value>
-                    <value response="1">
+                    <value response="01">
                         <point x="1757.0" y="2080.0"/>
                     </value>
-                    <value response="2">
+                    <value response="02">
                         <point x="1846.0" y="2080.0"/>
                     </value>
-                    <value response="3">
+                    <value response="03">
                         <point x="1935.0" y="2080.0"/>
                     </value>
-                    <value response="4">
+                    <value response="04">
                         <point x="2024.0" y="2080.0"/>
                     </value>
-                    <value response="5">
+                    <value response="05">
                         <point x="2112.0" y="2080.0"/>
                     </value>
-                    <value response="6">
+                    <value response="06">
                         <point x="2201.0" y="2080.0"/>
                     </value>
-                    <value response="7">
+                    <value response="07">
                         <point x="2290.0" y="2080.0"/>
                     </value>
-                    <value response="8">
+                    <value response="08">
                         <point x="2379.0" y="2080.0"/>
                     </value>
-                    <value response="9">
+                    <value response="09">
                         <point x="2467.0" y="2080.0"/>
                     </value>
                     <value response="20">
@@ -1008,64 +1008,64 @@
             </question>
             <question multiple="true" question="Question014" rejectMultiple="false" type="QUESTIONS_BY_ROWS">
                 <values>
-                    <value response="B">
+                    <value response="11">
                         <point x="2645.0" y="1908.0"/>
                     </value>
-                    <value response="C">
+                    <value response="12">
                         <point x="2734.0" y="1908.0"/>
                     </value>
-                    <value response="D">
+                    <value response="13">
                         <point x="2822.0" y="1908.0"/>
                     </value>
-                    <value response="E">
+                    <value response="14">
                         <point x="2911.0" y="1908.0"/>
                     </value>
-                    <value response="F">
+                    <value response="15">
                         <point x="3000.0" y="1908.0"/>
                     </value>
-                    <value response="G">
+                    <value response="16">
                         <point x="3089.0" y="1908.0"/>
                     </value>
-                    <value response="H">
+                    <value response="17">
                         <point x="3177.0" y="1908.0"/>
                     </value>
-                    <value response="I">
+                    <value response="18">
                         <point x="3266.0" y="1908.0"/>
                     </value>
-                    <value response="J">
+                    <value response="19">
                         <point x="3355.0" y="1908.0"/>
                     </value>
-                    <value response="1">
+                    <value response="01">
                         <point x="1758.0" y="1907.0"/>
                     </value>
-                    <value response="2">
+                    <value response="02">
                         <point x="1846.0" y="1908.0"/>
                     </value>
-                    <value response="3">
+                    <value response="03">
                         <point x="1935.0" y="1908.0"/>
                     </value>
-                    <value response="4">
+                    <value response="04">
                         <point x="2024.0" y="1908.0"/>
                     </value>
-                    <value response="5">
+                    <value response="05">
                         <point x="2112.0" y="1908.0"/>
                     </value>
-                    <value response="6">
+                    <value response="06">
                         <point x="2201.0" y="1908.0"/>
                     </value>
-                    <value response="7">
+                    <value response="07">
                         <point x="2290.0" y="1908.0"/>
                     </value>
-                    <value response="8">
+                    <value response="08">
                         <point x="2379.0" y="1908.0"/>
                     </value>
-                    <value response="9">
+                    <value response="09">
                         <point x="2467.0" y="1908.0"/>
                     </value>
-                    <value response="K">
+                    <value response="20">
                         <point x="3444.0" y="1909.0"/>
                     </value>
-                    <value response="A">
+                    <value response="10">
                         <point x="2556.0" y="1908.0"/>
                     </value>
                 </values>
