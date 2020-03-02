@@ -1,0 +1,13 @@
+File name;Alliance 2-Ball Trench.Question013;Alliance 3-Ball Trench.Question012;Auton High Goal.Question010;Auton Low Goal.Question011;Climb Position Middle .Question034;Climb Position Right.Question035;Climbed Position Left.Question033;Climbed.Question032;Crossed initiation line.Question009;Defense.Question037;Did Position Control.Question043;Did Rotation Control.Question042;High Goal Cycles.Question022;High Goal Cycles.Question023;High Goal Cycles.Question024;High Goal Cycles.Question025;High Goal Cycles.Question026;Load Cycles.Question017;Load Cycles.Question018;Load Cycles.Question019;Load Cycles.Question020;Load Cycles.Question021;Low Goal Cycles.Question027;Low Goal Cycles.Question028;Low Goal Cycles.Question029;Low Goal Cycles.Question030;Low Goal Cycles.Question031;Match#.Question001;Match#.Question002;Match#.Question003;Opponent 2-Ball Trench.Question016;Opponent 3-Ball Trench .Question015;Pick-Up.Question038;Played Defense.Question041;Position Control.Question040;Position.Question008;Rendezvous.Question014;Rotation Control.Question039;Speed.Question036;Team#.Question004;Team#.Question005;Team#.Question006;Team#.Question007
+291;;;3;;;;;0;1;2;;;;;01|02;01;;;;01|02;01;;;;;;;0;5;0;;;2;;1;B1;1;1;2;1;1;8;8
+292;;;;;;;;0;1;1;;;;;;;;;;;01;;;;;;;0;5;0;;;1;1;1;B2;;1;1;6;1;9;0
+293;;;5;;;;;0;1;1;;;;;01;01|02;;;01|02;01;;;;;;;;0;5;0;;;2;;1;B3;;1;1;3;1;7;5
+294;;;3;;;;;0;1;1;;;;;01;;;;;;;;;;;;;0;5;0;;;2;;1;R1;;1;1;4;6;8;0
+295;;;;;1;;;1;0;2;;;;;;;;;;01;;;;;;;;0;5;0;;;1;1;1;R2;;1;1;2;8;3;4
+296;;;;;;;;0;0;0;;;;;;;;;;;;;;;;;;0;5;0;;;1;1;1;R3;;1;1;3;3;0;1
+297;;;2;;;;;0;1;1;;;;;;01;;;;;;;;;;;;0;5;1;;;1;;1;B1;;1;2;7;1;9;6
+298;;;;;;1;;1;0;1;;;;;;;;;;;;;;;01;01;01|02|03;0;5;1;;;1;;1;B2;;1;1;7;1;9;7
+299;;1;3;;;;;0;1;1;;;;;;01|02|03;;;01;01|02;;;;;;;;0;5;1;;;1;;1;B3;;1;2;0;7;7;2
+300;;;;;;;;0;1;1;;;;;;;;;;;;;;;;;;0;5;1;;;1;;1;R1;;1;0;5;8;6;0
+301;;;3;;;;1;1;1;1;;;;01;;01;;;01|02;;;01;;;;;;0;5;1;;;2;;1;R2;;1;1;5;4;2;4
+302;;;;;;;;1;1;1;;;;;01;01;01;;;;;;;;;;;0;5;1;;;1;;1;R3;;1;1;3;8;7;5
